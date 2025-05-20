@@ -1,6 +1,7 @@
 # AutoCasNet
 Automatic Segmentation of Inner Ear on CT-Scan Using Auto-Context Convolutional Neural Network
+https://www.nature.com/articles/s41598-021-83955-x
 
-The article related with this repository is currently under peer-review. The code will be uploaded a few weeks after publication.
-
-Coming soon...
+The code and models related to the article can be found under code_models folder. 
+It assumes the data is saved as '.npy' variables
+The deep learning part relies on keras library.
